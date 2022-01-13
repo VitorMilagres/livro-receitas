@@ -3,26 +3,4 @@ Livros de receitas
 
 Olá! Bem-vindo ao meu livro de receitas.
 
-Salpicão de frango
-
-Lista de ingredientes
-
-1 lata de milho verde
-1 peito de frango grande sem osso e sem pele
-2 pimentões vermelhos cortados em tiras finas
-2 pimentões amarelos cortados em tiras finas
-2 talos de salsão limpos
-2 cenouras grandes raladas no ralo grosso
-200 g de presunto fatiado picado
-1/2 xícara de chá de uva passa
-1 caixinha de creme de leite
-1 pote de maionese
-Sal e azeite de oliva a gosto
-1 pacote de batata palha
-
-Modo de preparo
-
-Cozinhe o peito de frango com os temperos a gosto (cebola cortada ao meio, alho inteiro, tempero completo, ramos de salsinha).
-Descarte a água com os temperos e desfie o frango em uma tigela grande.
-Acrescente todos os ingredientes, exceto a batata palha (que deverá ser colocada pouco antes de servir) e misture.
-Sirva gelado.
+Comida boa e nutritita é aqui!
